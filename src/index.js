@@ -1,4 +1,4 @@
-import { Bowman, Swordsman, Magician, Daemon, Undead, Zombie } from './character';
+import { Bowman, Swordsman, Magician, Daemon, Undead, Zombie } from './characters';
 
 // Пример создания персонажей
 const bowman = new Bowman('Robin');
